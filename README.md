@@ -15,6 +15,7 @@
 ====
 
 
+汉化地址：https://amonguscn.cn
 原版链接：https://github.com/Eisbison/TheOtherRoles <br>  
 汉化版本3.4.4：https://wwi.lanzoul.com/imbgA015ec2f <br> 
 详细汉化职业教程：https://github.com/FFxFc/TheOtherRolesX <br> 
@@ -51,7 +52,7 @@
 
 
 
-2.超多职业GM增强版v3.5.5（自带汉化超多职业的一个分支）（最新支持2022.3.29）
+2.超多职业GM增强版v3.5.5.1（自带汉化超多职业的一个分支）（最新支持2022.3.29）
 ====
 
 
